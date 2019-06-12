@@ -64,7 +64,7 @@ var pointicons = {
         iconSize: [15, 15]
     }),
     School: L.icon({
-        iconUrl: 'https: //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dot_yellow_ff4.svg/1024px-Dot_yellow_ff4.svg.png',
+        iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dot_yellow_ff4.svg/1024px-Dot_yellow_ff4.svg.png',
         iconSize: [15, 15],
     })
 };
